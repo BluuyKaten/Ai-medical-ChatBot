@@ -34,8 +34,8 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/CarVak/xiaozhi-medical.git
-   cd xiaozhi-medical
+   git clone https://github.com/CarVak/Ai-medical-ChatBot.git
+   cd Ai-medical-ChatBot
    ```
 
 2. **配置环境变量**
@@ -184,8 +184,8 @@ aiTest/
 
 ## 📞 联系我们
 
-- 项目主页: [https://github.com/CarVak/xiaozhi-medical](https://github.com/CarVak/xiaozhi-medical)
-- 问题反馈: [Issues](https://github.com/CarVak/xiaozhi-medical/issues)
+- 项目主页: [https://github.com/CarVak/Ai-medical-ChatBot](https://github.com/CarVak/Ai-medical-ChatBot)
+- 问题反馈: [Issues](https://github.com/CarVak/Ai-medical-ChatBot/issues)
 - 邮箱: 1808660458@qq.com
 
 ## 🙏 致谢
